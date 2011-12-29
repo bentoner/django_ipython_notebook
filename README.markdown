@@ -10,7 +10,7 @@ This (trivial) django app provides the command
 to launch the IPython notebook as a django shell.
 
 
-Installation (on Linux)
+Installation (on Ubuntu)
 -----------------------
 Install the dependencies
 
