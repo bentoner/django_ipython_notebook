@@ -7,8 +7,7 @@ This (trivial) django app provides the command
 
 to launch the IPython notebook as a django shell.
 
-It's done in a really hacky way. See http://mail.scipy.org/pipermail/ipython-dev/2012-January/008526.html for clues how to do it better.
-
+It's done here in a really hacky way. It's done better in https://github.com/jnovinger/django_ipython_notebook but that doesn't work for me.
 
 Installation (on Ubuntu)
 -----------------------
